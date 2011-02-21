@@ -1,4 +1,5 @@
 # sice nevim, o co jde, ale budu do toho stourat
+# sice nevim, o co jde, ale budu do toho stourat
 require 'rubygems'
 Gem::manage_gems
 require 'rake/gempackagetask'
